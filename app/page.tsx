@@ -5,7 +5,7 @@ import Link from "next/link";
 
 // tailwind와는 별개의 CSS 방식 적용
 import styles from "@/app/ui/home.module.css";
-import { lusitana } from "./ui/fonts";
+import { lusitana } from "@/app/ui/fonts";
 import Image from "next/image";
 
 export default function Page() {
